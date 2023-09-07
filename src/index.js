@@ -80,3 +80,4 @@ calc8.addEventListener("click", () => {
     order8[i / 2].textContent = tempOrder.toFixed(2);
   }
 });
+

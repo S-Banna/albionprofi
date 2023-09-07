@@ -6,4 +6,9 @@ module.exports = {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
   },
+  entry: './src/index2.js',
+  output: {
+    filename: 'main2.js',
+    path: path.resolve(__dirname, 'dist'),
+  },
 };
